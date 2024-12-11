@@ -92,9 +92,24 @@ body {
 
 }
 
-.borderaround {
+.borderaround{
     text-align: center;
     border-bottom: 10px solid #333;
+    border-top: 10px solid #333;
+}
+
+.borderaround1{
+    text-align: center;
+    border-top: 10px solid #333;
+}
+
+.borderaround2{
+    text-align: center;
+    border-top: 10px solid #333;
+}
+
+.borderaround3{
+    text-align: center;
     border-top: 10px solid #333;
 }
 
