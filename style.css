@@ -133,3 +133,18 @@ body {
   ul{
     text-align: center;
   }
+
+  .patha{
+   text-align: left;
+  }
+
+  .borderarounda {
+    text-align: center;
+
+  }
+
+  .borderaroundb {
+    text-align: center;
+    border-top: 10px solid #333;
+
+  }
